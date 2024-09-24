@@ -19,6 +19,6 @@ MonoBehaviour:
   m_UpperLimbVisibility: 0
   m_FoveatedRendering: 1
   m_MetalImmersionStyle: 0
-  m_RealityKitImmersionStyle: 0
+  m_RealityKitImmersionStyle: 1
   m_IL2CPPLargeExeWorkaround: 1
   m_SkipPresentToMainScreen: 0
